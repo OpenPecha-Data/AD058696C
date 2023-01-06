@@ -1,0 +1,19 @@
+id: AD058696C
+title: The Fourfold 'Manam' Refuge
+type: translation
+pechas:
+- I45F5F7FF
+- I9D627DB1
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:57:34.828476
+  last_modified_at: 2023-01-04 11:57:34.828488
+  collections:
+  - Götsangpa Gönpo Dorje
+  - Works of Tibetan Masters
+alignment_to_base:
+  I45F5F7FF/455B: CBD5
+  I9D627DB1/116B: CBD5

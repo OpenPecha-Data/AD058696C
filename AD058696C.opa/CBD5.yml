@@ -1,0 +1,27 @@
+segment_sources:
+  I45F5F7FF:
+    type: origin_type
+    relation: translation
+    base: 455B
+    lang: en
+  I9D627DB1:
+    type: origin_type
+    relation: translation
+    base: 116B
+    lang: bo
+segment_pairs:
+  9d71994dc8a24c89bbf95c76bf277534:
+    I45F5F7FF: ba88d59a515849a3acc3b9a86c50c63a
+    I9D627DB1: 2d695ff201b74f1b91637802a4cfcd4a
+  98a9ce18bfe24a9aa5e154fc8840946c:
+    I45F5F7FF: 964a8675185c436f96c16fc73aba5ec3
+    I9D627DB1: 5427addfb228425fa925025217a8c71d
+  75e1384c5b8f41849b5ac2025382e874:
+    I45F5F7FF: 25b5d9d74bd54f8bbfdcabe8c1c282a9
+    I9D627DB1: 1f0d44fab88741698530443880af5282
+  8cb5e94c85144ff18e097a85fbdb8082:
+    I45F5F7FF: 171f4e58122d48429b9b3a28d1dfddb4
+    I9D627DB1: f59c7f9403e94ecea27d37b364c2e618
+  2287e8ba00bc4bd5bf13f916eaadc434:
+    I45F5F7FF: 3d63d546189f4e108d961d183152f974
+    I9D627DB1: 59bfcfeb24234a588fced92c570f3ffd
